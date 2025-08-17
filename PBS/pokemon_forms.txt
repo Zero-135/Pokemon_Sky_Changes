@@ -118,30 +118,6 @@ Abilities = LIGHTNINGROD
 FormName = Forma Roquera
 Abilities = LIGHTNINGROD
 #-------------------------------
-[PIKACHU,8]
-FormName = Forma Gorra Original
-#-------------------------------
-[PIKACHU,9]
-FormName = Forma Gorra Hoenn
-#-------------------------------
-[PIKACHU,10]
-FormName = Forma Gorra Sinnoh
-#-------------------------------
-[PIKACHU,11]
-FormName = Forma Gorra Teselia
-#-------------------------------
-[PIKACHU,12]
-FormName = Forma Gorra Kalos
-#-------------------------------
-[PIKACHU,13]
-FormName = Forma Gorra Alola
-#-------------------------------
-[PIKACHU,14]
-FormName = Forma Gorra Compañero
-#-------------------------------
-[PIKACHU,15]
-FormName = Forma Gorra Trotamundos
-#-------------------------------
 [RAICHU,1]
 FormName = Forma Alola
 Types = ELECTRIC,PSYCHIC
@@ -1062,6 +1038,7 @@ Abilities = PRIMORDIALSEA
 Height = 9.8
 Weight = 430.0
 Generation = 6
+Flags = Legendary,CannotDynamax
 #-------------------------------
 [GROUDON,1]
 FormName = Forma Primigenia
@@ -1072,6 +1049,7 @@ Abilities = DESOLATELAND
 Height = 5.0
 Weight = 999.7
 Generation = 6
+Flags = Legendary,CannotDynamax
 #-------------------------------
 [RAYQUAZA,1]
 FormName = Mega Rayquaza
@@ -2030,6 +2008,7 @@ Abilities = NEUROFORCE
 Height = 7.5
 Color = Yellow
 Pokedex = Esta forma es el resultado de haber absorbido una gran cantidad de energía luminosa. Emite rayos láser por todo el cuerpo.
+Flags = Legendary,CannotDynamax
 #-------------------------------
 [NECROZMA,4]
 PokedexForm = 3
@@ -2040,6 +2019,7 @@ EVs = ATTACK,1,SPECIAL_ATTACK,1,SPEED,1
 Abilities = NEUROFORCE
 Height = 7.5
 Color = Yellow
+Flags = Legendary,CannotDynamax
 #-------------------------------
 [MAGEARNA,1]
 FormName = Forma Color Vetusta

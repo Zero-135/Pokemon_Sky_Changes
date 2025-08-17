@@ -23108,6 +23108,7 @@ Shape = HeadBase
 Category = Nata
 Pokedex = Obsequia bayas decoradas con nata a aquellos Entrenadores en los que confía.
 Generation = 8
+Flags = AllFormsShareGmax
 #-------------------------------
 [FALINKS]
 Name = Falinks
@@ -23595,7 +23596,7 @@ Shape = Quadruped
 Category = Guerrero
 Pokedex = Este Pokémon está considerado como un héroe de leyenda. Absorbe el metal para transformarlo y emplearlo como armamento.
 Generation = 8
-Flags = Legendary
+Flags = Legendary,CannotDynamax
 WildItemCommon = RUSTEDSWORD
 WildItemUncommon = RUSTEDSWORD
 WildItemRare = RUSTEDSWORD
@@ -23623,7 +23624,7 @@ Shape = Quadruped
 Category = Guerrero
 Pokedex = Con la apariencia de una estatua de piedra, este Pokémon se sumió en un letargo tan profundo que acabó cayendo en el olvido.
 Generation = 8
-Flags = Legendary
+Flags = Legendary,CannotDynamax
 WildItemCommon = RUSTEDSHIELD
 WildItemUncommon = RUSTEDSHIELD
 WildItemRare = RUSTEDSHIELD
